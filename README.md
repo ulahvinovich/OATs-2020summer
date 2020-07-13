@@ -22,6 +22,7 @@ Markdown is a lightweight option for formatting text. See this [cheat sheet](htt
 |David|dchristianson4415|
 |Lee|leebuhrmann
 |Toluwa|DanGanGalaxy|
+|Vy|vyvo2412|
 |Logan|Logann120|
 |Tommy|@tjtucker|
 |Dan|Azncowboy|
